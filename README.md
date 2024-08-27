@@ -45,7 +45,6 @@ Expand the model to handle multiple languages and diverse text domains.
 Explore transfer learning and advanced architectures like transformers for improved performance.
 
 ## Contributors 
-* Maria Namitha Nelson
 * Sandar Aung
 
 ## Acknowledgments
